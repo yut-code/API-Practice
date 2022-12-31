@@ -1,2 +1,2 @@
 # API Practice
- intro to apis 
+ intro to apis at jamhacks6
